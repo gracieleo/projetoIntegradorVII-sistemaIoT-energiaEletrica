@@ -12,7 +12,6 @@ Integrantes:
 - [Rosemeire](https://github.com/meiretrajano)
 
 
-
 Hardware: 
 - Microcontrolador Arduíno UNO
 - Protoboard
@@ -23,6 +22,7 @@ Hardware:
 - Módulo Sensor de tensão AC-ZMPT101B
 - Sensor de corrente SCT-013
 
+
 Softwares utilizados: 
 - [IDE Arduino](https://www.arduino.cc/en/software)
 - Servidor de banco de dados em nuvem [Clever Cloud](https://www.clever-cloud.com/)
@@ -30,4 +30,10 @@ Softwares utilizados:
 - [Google Colaboratory](https://colab.research.google.com/drive/1YszomCNai-kAfDZEPibzP7FhYetNgJ0m#scrollTo=BX1tcmhHaUPZ)
 
 
+
 Links utilizados na pesquisa:
+- https://blogmasterwalkershop.com.br/embarcados/esp8266/comunicando-o-shield-wifi-esp8266-com-o-arduino-atraves-da-serial-nativa
+- https://blog.eletrogate.com/salvando-dados-do-arduino-em-um-banco-de-dados
+- http://www.uel.br/ctu/deel/TCC/TCC2016_JoaoLuisGrizinskyBrito.pdf
+- https://blogmasterwalkershop.com.br/embarcados/esp8266/conhecendo-o-shield-wifi-esp8266-para-arduino
+- https://blogmasterwalkershop.com.br/embarcados/esp8266/upgrade-de-firmware-no-shield-wifi-esp8266-para-arduino

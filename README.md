@@ -1,0 +1,1 @@
+# projetoIntegradorVII-sistemaIoT-energiaEletrica
